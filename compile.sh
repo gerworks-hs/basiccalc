@@ -1,4 +1,4 @@
 #!/bin/bash
 echo "Compiling..."
-gcc main.c
+gcc ./src/main.c
 echo "Finished"
