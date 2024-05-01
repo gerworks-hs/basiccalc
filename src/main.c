@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "operators.h"
 
 void printWelcome() {
 	printf(
